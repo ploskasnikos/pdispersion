@@ -11,5 +11,5 @@ The repository includes the following instances in separate folders:
 
 The files have the following format:
 - The first line includes the number of facilities (n) and p
-- The next $`\sum_{i=1}^{n-1} n - i`$ lines include the distances between each pair of facilities.
+- The next $`\sum\limits_{i=1}^{n-1} n - i`$ lines include the distances between each pair of facilities.
 - The next $`\sum_{i=1}^{p-1} p - i`$ lines include the distances between each pair of facility sites.
